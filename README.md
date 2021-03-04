@@ -10,10 +10,8 @@ allocaton for the following 18 months to see the results.  This rarely shows pos
 
 Ways to investigate further
 I could monte carlo this to see what best possible result would be or how often the portfolio ends positively
-Another would be to include a bond fund to move our mean and variance down the line for sharpes ratio we can get a better result,
-this may necessitate a longer time frame because bonds really shine when stocks collapse.
-I will probably not investigate these though.
-Another interesting thing to look at is a very long term index fund asset class analysis.  Others have done this
-and long term data is less reliable or available.
+To do this I would not use an IDE rather than Jupyter Notebook.
+Another would be to include a bond fund to move our mean and variance down the line for sharpes ratio we can get a better result.
+
 
 I don't use Modern Portfolio Theory, but it is very interesting statistically.
